@@ -1,13 +1,4 @@
-﻿Region code,Region label,gross value,businesses
-0,Australia,251927.76,424500
-1,New South Wales,65033.12,127343
-2,Victoria,60762.77,108588
-3,Queensland,50726.75,68653
-4,South Australia,26529.26,54279
-5,Western Australia,36730.47,50310
-6,Tasmania,7333.58,13873
-7,Northern Territory,2370.83,1322
-8,Australian Capital Territory,33.11,127
+SA2_MAIN16,region,gross value,businesses
 101021007,Braidwood,90.42,502
 101021008,Karabar,0,0
 101021009,Queanbeyan,0.39,2
